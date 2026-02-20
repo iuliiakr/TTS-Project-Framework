@@ -1,0 +1,42 @@
+site_name: TTS Project Framework
+site_description: Architectural notes on Text-to-Speech systems
+site_url: https://iuliiakr.github.io/TTS-Project-Framework
+repo_url: https://github.com/iuliiakr/TTS-Project-Framework
+repo_name: iuliiakr/TTS-Project-Framework
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition          # nice callout boxes (note, warning, tip)
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Insights:
+    - insights/index.md
+    - Bias and Cost: insights/bias-and-cost.md
