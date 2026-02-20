@@ -107,3 +107,10 @@ A voice is only as good as the speaker it comes out of.
 
 In 2026, baseline voice quality is widely accessible. Competitive advantage now depends on how precisely a system aligns with linguistic, emotional, and environmental constraints.
 
+
+
+## Connect & Collaborate
+
+* **LinkedIn:** [Iuliia Kravchenko](https://www.linkedin.com/in/iukravchenko/)
+* **Contact:** <iuliia.kravchenko07@gmail.com>
+
