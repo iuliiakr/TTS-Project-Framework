@@ -103,6 +103,11 @@ A voice is only as good as the speaker it comes out of.
 
 **The "edge case" trap:** Underestimating the effort required for low-resource languages or technical jargon.
 
+
+## Production Realities in Voice AI
+
+* **[When Bias Increases Cost: The "Linguistic Tax"](insights/bias-and-cost.md)** – A practical look at representation gaps, terminology risks, and human-in-the-loop validation as cost drivers in enterprise Voice AI.
+
 ## Conclusion
 
 In 2026, baseline voice quality is widely accessible. Competitive advantage now depends on how precisely a system aligns with linguistic, emotional, and environmental constraints.
