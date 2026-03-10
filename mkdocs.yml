@@ -27,7 +27,7 @@ plugins:
   - search
 
 markdown_extensions:
-  - admonition          # nice callout boxes (note, warning, tip)
+  - admonition
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
@@ -38,5 +38,5 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Insights:
-    - insights/index.md
-    - Bias and Cost: insights/bias-and-cost.md
+      - Overview: insights/index.md
+      - Bias and Cost: insights/bias-and-cost.md
