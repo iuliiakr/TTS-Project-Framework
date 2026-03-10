@@ -18,10 +18,6 @@ Topics include:
 
 ## Articles
 
-### Framework
-
-- [TTS Project Framework](README.md)
-
 ### Insights
 
 - [Bias and Cost in TTS Systems](insights/bias-and-cost.md)
