@@ -37,6 +37,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Framework: framework.md
   - Insights:
       - Overview: insights/index.md
       - Bias and Cost: insights/bias-and-cost.md
