@@ -25,6 +25,8 @@ Topics include:
 ### Insights
 
 - [Bias and Cost in TTS Systems](insights/bias-and-cost.md)
+- [Cross-Language Data Pooling](insights/cross-language-pooling.md)
+- [ASR Confidence in Multilingual Pipelines](insights/asr-confidence-multilingual.md)
 
 ## Repository
 
