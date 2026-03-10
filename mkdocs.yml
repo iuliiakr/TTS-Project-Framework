@@ -41,3 +41,4 @@ nav:
   - Insights:
       - Overview: insights/index.md
       - Bias and Cost: insights/bias-and-cost.md
+      - Cross-Language Data Pooling: insights/cross-language-pooling.md
