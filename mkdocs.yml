@@ -35,11 +35,11 @@ markdown_extensions:
   - toc:
       permalink: true
 
-nav:
-  - Home: index.md
-  - Framework: framework.md
-  - Insights:
-      - Overview: insights/index.md
-      - Bias and Cost: insights/bias-and-cost.md
-      - Cross-Language Data Pooling: insights/cross-language-pooling.md
-      - ASR Confidence in Multilingual Pipelines: insights/asr-confidence-multilingual.md
+#nav:
+#  - Home: index.md
+#  - Framework: framework.md
+#  - Insights:
+#      - Overview: insights/index.md
+#      - Bias and Cost: insights/bias-and-cost.md
+#      - Cross-Language Data Pooling: insights/cross-language-pooling.md
+#      - ASR Confidence in Multilingual Pipelines: insights/asr-confidence-multilingual.md
