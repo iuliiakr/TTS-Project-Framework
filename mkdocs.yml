@@ -4,6 +4,12 @@ site_url: https://iuliiakr.github.io/TTS-Project-Framework
 repo_url: https://github.com/iuliiakr/TTS-Project-Framework
 repo_name: iuliiakr/TTS-Project-Framework
 
+extra:
+  author:
+    name: Iuliia Kravchenko
+    title: Solutions Architect
+    linkedin: https://www.linkedin.com/in/iukravchenko/
+
 theme:
   name: material
   palette:
