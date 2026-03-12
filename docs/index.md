@@ -1,26 +1,22 @@
 # TTS Project Framework
 
-Architecture patterns for designing production-grade
-Text-to-Speech (TTS) systems.
+Architectural notes from production Voice AI engineering.
 
-## Overview
+---
 
-This project documents architectural decisions and
-practical constraints when building voice AI pipelines.
+I'm Iuliia Kravchenko, a Data Engineer at [Respeecher](https://www.respeecher.com/) with 4 years in production Voice AI systems. Before that, I worked as an AI Model Operator. I gives me an unusual vantage point: I've seen these systems fail at the model level, the data level and the architecture level.
 
-Topics include:
+This site documents what I've learned about building reliable text-to-speech and
+speech-to-speech pipelines.
 
-- dataset ingestion
-- normalization pipelines
-- model evaluation
-- bias and cost trade-offs
-- deployment architecture
+---
 
 ## Articles
 
 ### Framework
 
-- [TTS Project Framework](framework.md)
+- [TTS Project Framework](framework.md) — architectural patterns for
+  production-grade TTS systems
 
 ### Insights
 
@@ -28,7 +24,14 @@ Topics include:
 - [Cross-Language Data Pooling](insights/cross-language-pooling.md)
 - [ASR Confidence in Multilingual Pipelines](insights/asr-confidence-multilingual.md)
 
-## Repository
+---
 
-Source code and documentation:
-https://github.com/iuliiakr/TTS-Project-Framework
+## What these notes are
+
+Each article addresses a specific architectural question encountered in production — not theoretical best practices, but decisions made under real constraints: limited data, multilingual requirements, cost pressure and the need to maintain observable, debuggable systems.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/iukravchenko/) · 
+[GitHub](https://github.com/iuliiakr)
+
